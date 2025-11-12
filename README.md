@@ -19,7 +19,6 @@ The **Sky Ecosystem** is a modular suite of intelligent systems built to unify A
 | [SkyOne](https://github.com/PStar1980/SkyOne) | 🧩 Cognitive Core | Bootloader handling modular memory, journaling, and AI reflection pipelines |
 | [SkyServer](https://github.com/PStar1980/SkyServer) | ⚙️ Automation Core | Node.js backend ensuring structure, consistency, and intelligent automation |
 | [SkyWeb](https://github.com/PStar1980/SkyWeb) | 🌐 Web Layer | Full-stack platform for analytics, journaling, and visualization |
-| [NeoFinTech](https://github.com/PStar1980/NeoFinTech) | 💸 Applied Project | MERN-stack FinTech demo integrating automation and modern design |
 | [SkyProject](https://github.com/PStar1980/SkyProject) | 🗂 Meta Layer | Schema management, orchestration control, and memory metadata system |
 
 ---
