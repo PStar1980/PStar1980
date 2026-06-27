@@ -1,14 +1,14 @@
 # 👋 Hi, I’m **Paul Sattaur (PStar1980)**
 
-### Full-Stack Developer | C#/.NET + React Builder | AI-Driven Automation Architect | Creator of the Sky Ecosystem
+### Full-Stack Developer | Node.js + ASP.NET Core Builder | AI-Driven Automation Architect | Creator of the Sky Ecosystem
 
 ---
 
 ## ☁️ About Me
 
-I design and build practical software systems that combine **automation, data engineering, workflow orchestration, analytics, and full-stack web development**.
+I design and build software systems that combine **automation, data engineering, workflow orchestration, analytics, and full-stack Node.js / ASP.NET Core web development**.
 
-My work focuses on turning complex technical workflows into reliable, repeatable systems — tools that reduce friction, preserve context, improve consistency, and make data easier to act on.
+My work focuses on turning complex technical workflows into reliable, repeatable systems — tools that reduce friction, preserve context, improve consistency, and make data easier to understand, automate, and act on.
 
 > “Automation should feel like intelligence — quiet, precise, and always one step ahead.”
 
@@ -92,6 +92,7 @@ I’m focused on building systems that are:
 - **Modular** — each layer has a clear responsibility
 - **Data-driven** — decisions are supported by structured data and useful visualizations
 - **AI-assisted** — automation enhances development speed without replacing human judgment
+- **Future-ready** — designed to evolve toward durable workflows, intelligent automation, and adaptive decision platforms
 
 The long-term goal is to keep evolving the Sky Ecosystem into a practical automation and analytics platform that supports software development, data operations, workflow orchestration, career management, and real-world decision-making.
 
