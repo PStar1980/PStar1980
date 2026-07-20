@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Paul Sattaur (PStar1980)**
 
-### Full-Stack Developer | Node.js + ASP.NET Core Builder | AI-Driven Automation Architect
+### Full-Stack Developer | Node.js + ASP.NET Core | Workflow Automation
 
 ---
 
