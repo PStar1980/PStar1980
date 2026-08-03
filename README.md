@@ -35,7 +35,7 @@ Today, I am focused on reusable architecture for:
 
 | Project | Mission | Core Technologies |
 | --- | --- | --- |
-| [**SkyCommand**](https://github.com/PStar1980/SkyCommand) | Workflow automation and data-operations control plane with durable orchestration, ingestion governance, recovery, repository tooling, and operational observability. | Node.js, Express, PostgreSQL, Knex, Temporal, React, PostgreSQL, ECharts, D3.js |
+| [**SkyCommand**](https://github.com/PStar1980/SkyCommand) | Workflow automation and data-operations control plane with durable orchestration, ingestion governance, recovery, repository tooling, and operational observability. | Node.js, Express, Knex, Temporal, React, PostgreSQL, ECharts, D3.js |
 | [**SkyWeb Analytics**](https://github.com/PStar1980/SkyWeb) | Full-stack macroeconomic analytics platform with interactive dashboards, alerts, custom views, and decision-grade visual evidence. | React, Vite, ASP.NET Core, C#, Dapper, PostgreSQL, ECharts, D3.js |
 
 ### 🌠 On the Launchpad
