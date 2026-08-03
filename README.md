@@ -1,103 +1,88 @@
-# 👋 Hi, I’m **Paul Sattaur (PStar1980)**
+<div align="center">
 
-### Full-Stack Developer | Node.js + ASP.NET Core | Workflow Automation
+# Paul Sattaur
+
+### Data Engineering · Backend Systems · Workflow Automation
+
+**Building durable systems in a galaxy full of messy data.**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul_Sattaur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulsattaur)
+[![GitHub](https://img.shields.io/badge/GitHub-PStar1980-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PStar1980)
+
+</div>
 
 ---
 
-## ☁️ About Me
+## 🚀 Current Mission
 
-I design and build software systems that combine **automation, data engineering, workflow orchestration, analytics, and full-stack Node.js / ASP.NET Core web development**.
+I design and build **data platforms, backend services, workflow automation, and analytics applications** that turn complex processes into reliable, observable systems.
 
-My work focuses on turning complex technical workflows into reliable, repeatable systems — tools that reduce friction, preserve context, improve consistency, and make data easier to understand, automate, and act on.
+My background spans enterprise **Oracle PL/SQL**, backend application support and development with **C# / ASP.NET**, and modern full-stack engineering with **Node.js, PostgreSQL, React, Python, and Temporal**.
 
-> “Automation should feel like intelligence — quiet, precise, and always one step ahead.”
+Today, I am focused on reusable architecture for:
+
+- data ingestion and quality enforcement;
+- durable workflow orchestration and recovery;
+- PostgreSQL-backed operational and analytical systems;
+- decision-support dashboards and data visualization;
+- AI-assisted engineering with human validation and strong audit trails.
+
+> **Control destiny with proof.**
 
 ---
 
-## 🧠 The Sky Ecosystem
+## 🛸 Flagship Builds
 
-The **Sky Ecosystem** is a modular suite of projects built around AI-assisted development, backend automation, structured memory, data ingestion, macroeconomic analytics, dashboards, and live visualization.
-
-| Project | Role | Description |
+| Project | Mission | Core Technologies |
 | --- | --- | --- |
-| [SkyOne](https://github.com/PStar1980/SkyOne) | 🧩 Cognitive Core | AI runtime and bootloader for modular memory, journaling, reflection, and orchestration workflows |
-| [SkyProject](https://github.com/PStar1980/SkyProject) | 🗂️ Meta Layer | Central workspace for schemas, metadata, project memory modules, career payloads, and ecosystem coordination |
-| [SkyServer](https://github.com/PStar1980/SkyServer) | ⚙️ Automation & Data Core | Node.js / Express / PostgreSQL control plane for ingestion, automation, database tooling, repo workflows, alert evaluation, and private admin operations |
-| [SkyWeb](https://github.com/PStar1980/SkyWeb) | 🌐 Analytics Web Layer | React + ASP.NET Core / C# macro analytics platform with dashboards, alert rules, Signal Center, ECharts/D3 visualizations, and PostgreSQL-backed APIs |
+| [**SkyCommand**](https://github.com/PStar1980/SkyCommand) | Workflow automation and data-operations control plane with durable orchestration, ingestion governance, recovery, repository tooling, and operational observability. | Node.js, Express, PostgreSQL, Knex, Temporal, React |
+| [**SkyWeb Analytics**](https://github.com/PStar1980/SkyWeb) | Full-stack macroeconomic analytics platform with interactive dashboards, alerts, custom views, and decision-grade visual evidence. | React, Vite, ASP.NET Core, C#, Dapper, PostgreSQL, ECharts, D3.js |
+
+### 🌠 On the Launchpad
+
+**SkyData Studio** — a planned full-stack Python application that will consume the portable data contracts established in SkyCommand and provide a clean client-facing analytics experience.
 
 ---
 
-## 🚀 Current Focus
+## ⚙️ Systems Stack
 
-I am actively building the Sky Ecosystem as a practical, multi-interface platform with:
-
-- **SkyWeb Analytics** — a React + ASP.NET Core Web API application for macroeconomic dashboards, indicator detail pages, alert overlays, custom dashboards, and portfolio-ready visual analytics
-- **SkyServer** — a Node.js / Express / PostgreSQL control plane for ingestion, automation runs, schedulers, listeners, alert evaluation, repository tooling, and private admin workflows
-- **PostgreSQL-backed data architecture** for macroeconomic indicators, reporting views, saved dashboards, user preferences, alerts, and operational datasets
-- **Automated ingestion pipelines** for FRED, Bank of Canada, Statistics Canada, and manual spreadsheet workflows
-- **Repository automation** for generated repo maps, clean project handoff zips, and repeatable Git/dev workflows
-- Next expansion toward **Temporal workflow orchestration**, durable automation, retryable data pipelines, and observable backend workflows
-
----
-
-## 🧰 Core Stack
-
-| Area | Technologies |
+| Layer | Technologies |
 | --- | --- |
-| Languages | C#, JavaScript, SQL, PL/SQL, Python, PowerShell, HTML, CSS |
-| Frontend | React, Vite, React Router, Bootstrap, Axios |
-| APIs | ASP.NET Core Web API, Node.js, Express, REST APIs, Swagger/OpenAPI |
-| Data Access | Dapper, Npgsql, Knex.js |
-| Databases | PostgreSQL, Oracle, SQL Server, MySQL, MongoDB |
-| Visualization | Apache ECharts, D3.js |
-| Automation | CLI tooling, Git workflows, Husky, ESLint, Prettier, generated repo maps, script orchestration |
-| Architecture Focus | Modular systems, idempotent workflows, data-driven design, analytics APIs, workflow orchestration, AI-assisted development |
+| Languages | Python, JavaScript, C#, SQL, PL/SQL, PowerShell, HTML, CSS |
+| Backend & APIs | Node.js, Express, ASP.NET Core Web API, REST, Swagger / OpenAPI |
+| Data Engineering | PostgreSQL, Oracle, SQL Server, Knex.js, Dapper, Npgsql, ingestion pipelines, data contracts |
+| Workflow Automation | Temporal, durable workflows, retries, recovery, scheduling, CLI and Git automation |
+| Frontend & Visualization | React, Vite, React Router, Apache ECharts, D3.js |
+| Engineering Practices | Modular architecture, idempotency, observability, validation, testing, migration design, AI-assisted development |
 
 ---
 
-## 🏗️ Featured Technical Themes
+## 🛰️ What I Build Best
 
-- Full-stack application development with **React + ASP.NET Core / C#**
-- Backend control-plane architecture with **Node.js, Express, Knex, and PostgreSQL**
-- PostgreSQL schema design, migrations, seeds, analytical views, and operational data models
-- Public-data ingestion from economic APIs, CSV files, and controlled manual uploads
-- Interactive macroeconomic dashboards, alert overlays, Signal Center workflows, and time-series visualization
-- Safe migration patterns: proxy-to-native API cutover, legacy removal, and documentation-driven validation
-- AI-assisted development workflows using structured planning, review loops, and human-validated implementation
-- Clean project documentation through living README files, release notes, repo maps, and portfolio-ready technical briefs
+- **Backend control planes** that coordinate tools, workflows, workers, and operational state.
+- **Portable ingestion systems** where new sources and datasets can be added without rewriting the core engine.
+- **Data-quality and recovery frameworks** with durable evidence, policy resolution, retries, revisions, and failed-only replay.
+- **PostgreSQL architectures** with carefully designed schemas, migrations, views, contracts, and audit trails.
+- **Decision-support applications** that translate raw data into clear management signals and interactive visual stories.
+- **AI-assisted engineering workflows** where speed never replaces testing, review, or human judgment.
 
 ---
 
-## 🌟 Featured Project: SkyWeb Analytics
+## 🌌 Engineering Doctrine
 
-**SkyWeb Analytics** is a full-stack macroeconomic analytics platform built with:
+```text
+Clear contracts over hidden assumptions.
+Durable evidence over mystery-box automation.
+Reusable architecture over one-off machinery.
+Observable systems over silent failure.
+```
 
-- **React + Vite** for the client
-- **ASP.NET Core Web API + C#** for the analytics/member API
-- **PostgreSQL** for macro indicators, dashboards, alert preferences, and user state
-- **Dapper + Npgsql** for data access
-- **Apache ECharts + D3.js** for charting
-- **SkyServer Node.js** as the backend control plane for ingestion, alert evaluation, automation, and repository tooling
-
-It demonstrates practical experience with modern full-stack architecture, dashboard development, data visualization, API migration, authentication, alert lifecycle design, and portfolio-grade documentation.
+The Force is useful. A clean audit trail is better. 😄
 
 ---
 
-## 🧭 What I’m Building Toward
+## 📡 Connect
 
-I’m focused on building systems that are:
-
-- **Reliable** — repeatable workflows, clear contracts, strong validation
-- **Observable** — visible status, history, and operational feedback
-- **Modular** — each layer has a clear responsibility
-- **Data-driven** — decisions are supported by structured data and useful visualizations
-- **AI-assisted** — automation enhances development speed without replacing human judgment
-- **Future-ready** — designed to evolve toward durable workflows, intelligent automation, and adaptive decision platforms
-
-The long-term goal is to keep evolving the Sky Ecosystem into a practical automation and analytics platform that supports software development, data operations, workflow orchestration, career management, and real-world decision-making.
-
----
-
-## 📫 Connect with me
+I am interested in opportunities involving **data engineering, backend development, workflow automation, analytics platforms, and AI-enabled software delivery**.
 
 [LinkedIn](https://www.linkedin.com/in/paulsattaur) · [GitHub](https://github.com/PStar1980)
