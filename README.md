@@ -4,7 +4,7 @@
 
 ### Data Engineering · Backend Systems · Workflow Automation
 
-**Building durable systems in a galaxy full of messy data.**
+**Building durable systems in a galaxy full of complex data.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Paul_Sattaur-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulsattaur)
 [![GitHub](https://img.shields.io/badge/GitHub-PStar1980-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PStar1980)
