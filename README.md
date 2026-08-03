@@ -77,8 +77,6 @@ Reusable architecture over one-off machinery.
 Observable systems over silent failure.
 ```
 
-The Force is useful. A clean audit trail is better. 😄
-
 ---
 
 ## 📡 Connect
