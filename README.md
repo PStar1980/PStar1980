@@ -97,7 +97,11 @@ My current focus is reusable architecture for **workflow orchestration, data eng
 
 <div align="center">
 
-### [SkyCommand](https://github.com/PStar1980/SkyCommand)
+<a href="https://github.com/PStar1980/SkyCommand">
+  <img src="https://raw.githubusercontent.com/PStar1980/PStar1980/output/skycommand-logo-lockup.png" width="430" alt="SkyCommand" />
+</a>
+
+<br>
 
 **Deterministic workflow automation for controlled execution, durable orchestration, and inspectable evidence.**
 
