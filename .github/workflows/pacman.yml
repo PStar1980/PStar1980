@@ -1,4 +1,4 @@
-name: Generate Pac-Man contribution graph
+name: Generate profile activity
 
 on:
   schedule:
@@ -16,15 +16,26 @@ jobs:
     timeout-minutes: 20
 
     steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
       - name: Generate Pac-Man contribution graph
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ github.token }}
           games: 'pacman'
           player_style: 'opportunistic'
           hide_month_labels: 'false'
 
-      - name: Publish contribution graph to output branch
+      - name: Generate GitHub engineering telemetry
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROFILE_USER: ${{ github.repository_owner }}
+          OUTPUT_DIR: dist
+        run: python scripts/generate_profile_telemetry.py
+
+      - name: Publish generated SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
