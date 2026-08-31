@@ -173,7 +173,7 @@ SkyCommand is a full-stack workflow platform built around **deterministic contro
 
 <img src="https://raw.githubusercontent.com/PStar1980/PStar1980/output/profile-telemetry.svg" width="95%" alt="GitHub engineering telemetry" />
 
-<br>
+<br><br>
 
 <img src="https://raw.githubusercontent.com/PStar1980/PStar1980/output/language-matrix.svg" width="95%" alt="GitHub language matrix" />
 
