@@ -165,6 +165,18 @@ SkyCommand is a full-stack workflow platform built around **deterministic contro
 
 <div align="center">
 
+### GitHub Engineering Telemetry
+
+<img src="https://raw.githubusercontent.com/PStar1980/PStar1980/output/profile-telemetry.svg" width="95%" alt="GitHub engineering telemetry" />
+
+<br><br>
+
+<img src="https://raw.githubusercontent.com/PStar1980/PStar1980/output/language-matrix.svg" width="95%" alt="GitHub language matrix" />
+
+<br><br>
+
+### Contribution Arcade
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PStar1980/PStar1980/output/pacman-contribution-graph-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PStar1980/PStar1980/output/pacman-contribution-graph.svg" />
@@ -173,7 +185,7 @@ SkyCommand is a full-stack workflow platform built around **deterministic contro
 
 <br>
 
-<sub>Pac-Man cruises through my real GitHub contribution history. The graph is regenerated automatically from profile activity.</sub>
+<sub>Live profile telemetry and the Pac-Man contribution graph are regenerated automatically from public GitHub activity.</sub>
 
 </div>
 
