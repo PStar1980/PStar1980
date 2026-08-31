@@ -111,8 +111,7 @@ My current focus is reusable architecture for **workflow orchestration, data eng
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Operational_State-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-Runtime-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<br><br>
-
+<br>
 <a href="https://github.com/PStar1980/SkyCommand">
   <img src="https://raw.githubusercontent.com/PStar1980/SkyCommand/main/docs/images/readme/Dashboard.png" width="48%" alt="SkyCommand dashboard" />
 </a>&nbsp;
