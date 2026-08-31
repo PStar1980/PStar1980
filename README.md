@@ -82,7 +82,7 @@ My current focus is reusable architecture for **workflow orchestration, data eng
   <img src="https://skillicons.dev/icons?i=nodejs,express,dotnet,postgres,docker,git,powershell,vscode,html,css&theme=dark&perline=10" alt="Platform and tooling skills" />
 </a>
 
-<br><br>
+<br>
 
 ![Temporal](https://img.shields.io/badge/Temporal-Durable_Workflows-111111?style=for-the-badge&logo=temporal&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
