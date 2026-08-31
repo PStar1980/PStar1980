@@ -35,7 +35,14 @@ jobs:
           OUTPUT_DIR: dist
         run: python scripts/generate_profile_telemetry.py
 
-      - name: Publish generated SVGs to output branch
+      - name: Sync SkyCommand branding
+        run: |
+          mkdir -p dist
+          curl --fail --location --retry 3 \
+            --output dist/skycommand-logo-lockup.png \
+            https://raw.githubusercontent.com/PStar1980/SkyCommand/main/apps/admin-web/public/brand/skycommand-logo-lockup.png
+
+      - name: Publish generated profile assets to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
