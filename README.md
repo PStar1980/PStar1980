@@ -165,16 +165,15 @@ SkyCommand is a full-stack workflow platform built around **deterministic contro
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PStar1980&show_icons=true&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=C9D1D9&icon_color=F6C445&rank_icon=github" width="49%" alt="Paul Sattaur GitHub statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PStar1980&layout=compact&hide_border=true&bg_color=00000000&title_color=D4AF37&text_color=C9D1D9&langs_count=8" width="41%" alt="Most used languages" />
-
-<br><br>
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PStar1980/PStar1980/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PStar1980/PStar1980/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/PStar1980/PStar1980/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PStar1980/PStar1980/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PStar1980/PStar1980/output/pacman-contribution-graph.svg" />
+  <img src="https://raw.githubusercontent.com/PStar1980/PStar1980/output/pacman-contribution-graph.svg" alt="Pac-Man contribution graph" width="95%" />
 </picture>
+
+<br>
+
+<sub>Pac-Man cruises through my real GitHub contribution history. The graph is regenerated automatically from profile activity.</sub>
 
 </div>
 
