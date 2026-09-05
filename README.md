@@ -112,10 +112,10 @@ My current focus is reusable architecture for **workflow orchestration, data eng
 ![Docker](https://img.shields.io/badge/Docker-Runtime-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 <br>
-<a href="https://github.com/PStar1980/SkyCommand">
+<a href="https://github.com/PStar1980/SkyCommand/tree/main/docs/images/readme/Dashboard.png">
   <img src="https://raw.githubusercontent.com/PStar1980/SkyCommand/main/docs/images/readme/Dashboard.png" width="48%" alt="SkyCommand dashboard" />
 </a>&nbsp;
-<a href="https://github.com/PStar1980/SkyCommand">
+<a href="https://github.com/PStar1980/SkyCommand/tree/main/docs/images/readme/Workflow_Running.png">
   <img src="https://raw.githubusercontent.com/PStar1980/SkyCommand/main/docs/images/readme/Workflow_Running.png" width="48%" alt="SkyCommand running workflow" />
 </a>
 
